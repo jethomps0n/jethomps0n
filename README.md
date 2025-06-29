@@ -80,7 +80,7 @@
 
 <!-- Fun/Signature Section in a Modern Style -->
 <div align="center" style="margin: 30px 0; font-size:1.15em; color:#90caf9; background:linear-gradient(90deg,#1a2240 70%,#23395D 100%); border-radius:12px; padding:10px 0 12px 0;">
-  🌙 Midnight-coding, film-loving, always up for creative collaboration! 🌈
+  🌙 Late-night coding, film-loving, always up for creative collaboration!
 </div>
 
 <!-- Unique Footer Ribbon -->
