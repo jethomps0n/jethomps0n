@@ -62,17 +62,13 @@
 <!-- Social Links with Animation -->
 <div align="center" style="margin: 32px 0;display:none;">
   <a href="https://itsjonathanthompson.com">
-    <img src="https://img.shields.io/badge/Website-223a5f?style=for-the-badge&logo=google-chrome&logoColor=49B2FA"/>
-  </a>
+    <img src="https://img.shields.io/badge/Website-223a5f?style=for-the-badge&logo=google-chrome&logoColor=49B2FA"/></a>
   <a href="https://www.youtube.com/@jethompsn">
-    <img src="https://img.shields.io/badge/YouTube-223a5f?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-  </a>
+    <img src="https://img.shields.io/badge/YouTube-223a5f?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
   <a href="https://www.instagram.com/jethompsn/">
-    <img src="https://img.shields.io/badge/Instagram-223a5f?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-223a5f?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
   <a href="https://letterboxd.com/Jonathan_T/">
-    <img src="https://img.shields.io/badge/Letterboxd-223a5f?style=for-the-badge&logo=letterboxd&logoColor=00D735"/>
-  </a>
+    <img src="https://img.shields.io/badge/Letterboxd-223a5f?style=for-the-badge&logo=letterboxd&logoColor=00D735"/></a>
 </div>
 
 <!-- Ultra-sleek Gradient Divider -->
