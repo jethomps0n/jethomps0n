@@ -61,7 +61,7 @@
 
 <!-- Social Links with Animation -->
 <div align="center" style="margin: 32px 0;">
-  <a href="https://jonathanthompson.dev">
+  <a href="https://itsjonathanthompson.com">
     <img src="https://img.shields.io/badge/Website-223a5f?style=for-the-badge&logo=google-chrome&logoColor=49B2FA"/>
   </a>
   <a href="https://www.youtube.com/@jethompsn">
