@@ -60,7 +60,7 @@
 <div align="center" style="height:3px;width:90%;margin:36px auto 36px auto;border-radius:2px;background:linear-gradient(90deg,#223a5f 10%,#49B2FA 50%,#223a5f 90%);"></div>
 
 <!-- Social Links with Animation -->
-<div align="center" style="margin: 32px 0;">
+<div align="center" style="margin: 32px 0;display:none;">
   <a href="https://itsjonathanthompson.com">
     <img src="https://img.shields.io/badge/Website-223a5f?style=for-the-badge&logo=google-chrome&logoColor=49B2FA"/>
   </a>
