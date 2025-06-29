@@ -13,14 +13,14 @@
       <span style="color:#ccd8f6;">JavaScript, HTML, CSS, C++, Java, Python</span>
     </td>
     <td valign="top" width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,git,adobe" width="140" alt="Tools"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode,git,pr" width="140" alt="Tools"/><br>
       <span style="color:#7ecbff;font-weight:bold;">Tools</span><br>
       <span style="color:#ccd8f6;">VS Code, Git, Adobe Creative Suite</span>
     </td>
     <td valign="top" width="33%" align="center">
       <img src="https://img.shields.io/badge/-Film,%20TV%20&%20Media-21325B?style=for-the-badge&color=1A237E"/><br>
       <img src="https://img.shields.io/badge/-CS%20Minor-0e375a?style=for-the-badge&color=0A2A43"/><br>
-      <span style="color:#7ecbff;font-weight:bold;">University of Michigan</span>
+      <img src="https://img.shields.io/badge/-University%20of%20Michigan-1g5d32?style=for-the-badge&color=FFCB05"/><br>
     </td>
   </tr>
 </table>
