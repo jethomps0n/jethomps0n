@@ -43,7 +43,7 @@
       <h3 align="center" style="color:#7ecbff;">🚀 Projects</h3>
       <ul align="left" style="color:#ccd8f6;">
         <li>Building my portfolio website from scratch</li>
-        <li>Scripting video preview generator tool</li>
+        <li>Scripting a video preview generator tool</li>
         <li>Creating a web based PDF viewer with javascript</li>
       </ul>
     </td>
