@@ -35,7 +35,7 @@
       <h3 align="center" style="color:#7ecbff;">🎬 About</h3>
       <ul align="left" style="color:#ccd8f6;">
         <li>Film, TV & Media Studies major</li>
-        <li>CS Minor (learning Python!)</li>
+        <li>CS Minor</li>
         <li>Storyteller & creative problem solver</li>
       </ul>
     </td>
@@ -43,8 +43,8 @@
       <h3 align="center" style="color:#7ecbff;">🚀 Projects</h3>
       <ul align="left" style="color:#ccd8f6;">
         <li>Building my portfolio website from scratch</li>
-        <li>Python learning journey</li>
-        <li>Automation & creative tools</li>
+        <li>Scripting video preview generator tool</li>
+        <li>Creating a web based PDF viewer with javascript</li>
       </ul>
     </td>
     <td width="33%" valign="top" align="center">
